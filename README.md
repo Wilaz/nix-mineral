@@ -179,5 +179,5 @@ URL: https://github.com/k4yt3x/sysctl/blob/master/sysctl.conf
 The `hardened.nix` profile upstream, which inspired this project: \
 URL: https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/profiles/hardened.nix
 
-nix-bitcoin's hardening, which have also inspired this project: \
+nix-bitcoin's hardening, which has also inspired this project: \
 URL: https://github.com/fort-nix/nix-bitcoin
